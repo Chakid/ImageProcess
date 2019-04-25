@@ -1,3 +1,5 @@
+# coding:utf-8
+#识别验证码
 import pytesseract
 import cv2
 import os
